@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-folders2",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Eslint rule for consistent folder names.",
   "main": "index.js",
   "scripts": {
@@ -21,12 +21,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/pajarraco/eslint-plugin-folders.git"
+    "url": "git+ssh://git@github.com/pajarraco/eslint-plugin-folders2.git"
   },
   "bugs": {
-    "url": "https://github.com/pajarraco/eslint-plugin-folders/issues"
+    "url": "https://github.com/pajarraco/eslint-plugin-folders2/issues"
   },
-  "homepage": "https://github.com/pajarraco/eslint-plugin-folders#readme",
+  "homepage": "https://github.com/pajarraco/eslint-plugin-folders2#readme",
   "directories": {
     "lib": "lib"
   }
